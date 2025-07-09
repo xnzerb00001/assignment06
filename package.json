@@ -1,0 +1,15 @@
+{
+  "name": "lottery-number-generator",
+  "version": "1.0.0",
+  "description": "A lottery number drawing simulation",
+  "main": "src/assignment06.js",
+  "scripts": {
+    "start": "node src/assignment06.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
